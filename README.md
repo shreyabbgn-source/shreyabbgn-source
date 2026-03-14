@@ -46,7 +46,7 @@
 ## 📌 Featured Projects
 
 ### 🔹 SmartBite
-AI-powered project focused on analyzing food-related inputs and generating useful insights through intelligent processing.
+AI-powered project focused on building a smart campus food ordering platform.
 
 ### 🔹 BinWin
 Smart waste management prototype where users scan a dustbin QR code, view waste details, and earn points for proper waste segregation.
